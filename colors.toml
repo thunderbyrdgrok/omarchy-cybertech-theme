@@ -1,0 +1,37 @@
+# Cybertech — night mode of the Proton Hub and Cyberlog field journal.
+# Electric cyan on near-black, with magenta, amber, and signal red as the other marks.
+mode = "dark"
+
+accent = "#3df0ff"
+selection = "#123844"
+muted = "#93b0c0"
+
+background = "#05080e"
+dark_background = "#040a10"
+darker_background = "#02060a"
+lighter_background = "#07131d"
+
+foreground = "#e7fbff"
+dark_foreground = "#6e8b9a"
+light_foreground = "#b7d4e0"
+bright_foreground = "#f4fdff"
+
+red = "#ff2a33"
+yellow = "#ffc14a"
+orange = "#ff8a3d"
+green = "#2ec9a0"
+cyan = "#14c4d6"
+blue = "#3aa8ff"
+magenta = "#ff3d9a"
+brown = "#8d5a2b"
+
+bright_red = "#ff6a70"
+bright_yellow = "#ffd78a"
+bright_green = "#7dffe0"
+bright_cyan = "#3df0ff"
+bright_blue = "#8ad4ff"
+bright_magenta = "#ff8ec4"
+
+# Window frames take the journal cyan. The shell keeps that same edge.
+hyprland_active_border = "rgba(3df0ffee)"
+hyprland_inactive_border = "rgba(1c6d78aa)"
